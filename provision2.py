@@ -8,8 +8,8 @@ def provision_virtual_machine():
     """
     # Constants for EC2 configuration
     REGION = 'us-east-1'
-    AWS_ACCESS_KEY = 'AKIAUYPNA4JPTKMDKU6J'
-    AWS_SECRET_KEY = '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'
+    AWS_ACCESS_KEY = ''
+    AWS_SECRET_KEY = ''
     INSTANCE_TYPE = 't2.micro'
     IMAGE_ID = 'ami-0df8c184d5f6ae949'
     MIN_COUNT = 1
